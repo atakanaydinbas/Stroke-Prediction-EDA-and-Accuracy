@@ -1,5 +1,6 @@
 # Stroke Prediction EDA and Accuracy
  Data Analysis and Accuracy Score for Stroke Prediction
+ 
  Data Brief:
  
     1)id: Identification number of the individual.
