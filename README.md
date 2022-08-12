@@ -2,7 +2,7 @@
  Data Analysis and Accuracy Score for Stroke Prediction
  
  Data Brief:
- 
+
     1)id: Identification number of the individual.
     2)gender: Gender of the individual.
     3)hypertension: Health related parameter, does person have hypertension.
