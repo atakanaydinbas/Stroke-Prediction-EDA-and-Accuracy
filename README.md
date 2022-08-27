@@ -17,7 +17,10 @@
 
 
 The project is stroke classification with these features.
-I used Catboost for training and Accurancy score is 93.9%
+I used Catboost for training.
 gender, ever_married, work_type, residence_type and smoking_status is our categorical datas.
 I used Catboost because it is easily handle with categorical data.
 Catboost is very assertive in giving a good result without being tuned. So I did not tune it.
+
+
+**Accurancy Score is 93.9%**
