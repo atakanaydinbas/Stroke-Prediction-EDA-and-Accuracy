@@ -22,5 +22,4 @@ gender, ever_married, work_type, residence_type and smoking_status is our catego
 I used Catboost because it is easily handle with categorical data.
 Catboost is very assertive in giving a good result without being tuned. So I did not tune it.
 
-
 **Accurancy Score is 93.9%**
