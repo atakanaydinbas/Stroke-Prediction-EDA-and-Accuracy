@@ -53,7 +53,7 @@ Run the Jupyter Notebook containing the EDA and machine learning code.
 Explore the project, run the code, and analyze the results.
 
 ## Contributing
-Contributions to this project are welcome. If you'd like to contribute, please follow our Contribution Guidelines.
+Contributions to this project are welcome.
 
 
 # **Accurancy Score is 93.9%**
