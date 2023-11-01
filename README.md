@@ -56,4 +56,4 @@ Explore the project, run the code, and analyze the results.
 Contributions to this project are welcome. If you'd like to contribute, please follow our Contribution Guidelines.
 
 
-**Accurancy Score is 93.9%**
+# **Accurancy Score is 93.9%**
